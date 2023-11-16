@@ -1,10 +1,3 @@
-/******************************************************************************
-
-Name: Saba Begum
-Access ID: HG7548
-Date: 11/14/23
-
-*******************************************************************************/
 package ShipClass;
 
 import java.util.ArrayList;
@@ -79,7 +72,6 @@ class CruiseShip extends Ship implements Comparable<CruiseShip> {
      * the Ship argument.
      * 
      * Author Name: Saba Begum
-     * Author Access ID: HG7548
      * Author Date: 11/14/23
      ******************************************************************/
     public int compareTo(CruiseShip other) {
@@ -121,8 +113,8 @@ class CruiseShip extends Ship implements Comparable<CruiseShip> {
     A positive integer if the current object is greater than 
     the argument object.
     Zero if both objects are equal in terms of capacity.
+    
      * Author Name: Saba Begum
-     * Author Access ID: HG7548
      * Author Date: 11/14/23
      ***********************************************************/
     @Override
@@ -178,7 +170,6 @@ class CruiseShip extends Ship implements Comparable<CruiseShip> {
     case differences.int - 
      * 
      * Author Name: Saba Begum
-     * Author Access ID: Hg7548
      * Author Date: 11/14/23
      ****************************************************************/
     @Override
